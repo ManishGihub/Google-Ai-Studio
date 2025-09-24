@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Meeting Summarizer",
+  "description": "An AI-powered application to record or upload meeting audio, transcribe it, and generate structured summaries with key points, decisions, and action items using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
